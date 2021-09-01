@@ -1,4 +1,5 @@
-# tomorrower
+# Tomorrower
+Time organized todos, designed with a simplistic style.
 
 ## Project setup
 ```
